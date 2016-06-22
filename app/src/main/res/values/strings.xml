@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CerebritosBilingues</string>
+    <string name="seleccion_profesion">¿Cual crees que es el personaje correcto?</string>
+    <string name="arrastrar">¡Arrástralo!</string>
+
+    <string name="jugar">Jugar</string>
+    <string name="controlParental">Control Parental</string>
+    <string name="correo">E-mail</string>
+    <string name="usuario">Usuario</string>
+    <string name="passwd">Contraseña</string>
+    <string name="login">Ingresar</string>
+    <string name="passwdOlvidado"> <u>¿Olvido contraseña? </u> </string>
+    <string name="registrarse"> <u>Registrarse</u> </string>
+    <string name="title_activity_login_fb">Sign in Fb</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="app_id">730803840354682</string>
+    <string name="server_client_id">45206942496-27qahu384449hu41l6fb85svimne68db.apps.googleusercontent.com</string>
+    <string name="signed_in_fmt">Usuario: %s</string>
+    <string name="signed_in_fmt2">Correo: %s</string>
+    <string name="signed_out">Usuario: </string>
+    <string name="signed_out2">Correo:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
